@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "equipe1": "Maroc",
+    "equipe2": "Comores",
+    "date": "2025-12-21",
+    "heure": "20:00",
+    "stade": "Prince Moulay Abdellah",
+    "ville": "Rabat"
+  },
+  {
+    "id": 2,
+    "equipe1": "Égypte",
+    "equipe2": "Maroc",
+    "date": "2025-12-26",
+    "heure": "18:00",
+    "stade": "Grand Stade de Tanger",
+    "ville": "Tanger"
+  },
+  {
+    "id": 3,
+    "equipe1": "Maroc",
+    "equipe2": "Ghana",
+    "date": "2025-12-30",
+    "heure": "21:00",
+    "stade": "Complexe Mohammed V",
+    "ville": "Casablanca"
+  }
+]
